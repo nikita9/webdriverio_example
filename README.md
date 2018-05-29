@@ -5,7 +5,7 @@ The repository has been created for demostration of the main WebdriverIO feature
 
 #### Running tests
 1. Run Selenium Standalone Server
-> The **selenium-standalone server** runs on **127.0.0.1 (localhost)** for Windows Machines.
+> The **selenium-standalone server** runs on **127.0.0.1:4444 (localhost)** for Windows Machines.
 
 ```bash
 ./node_modules/.bin/selenium-standalone install
